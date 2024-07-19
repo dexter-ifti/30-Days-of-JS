@@ -1,6 +1,5 @@
 ### Day 7: Objects
 
-Let's go through each task step by step:
 
 ### Activity 1: Object Creation and Access
 
