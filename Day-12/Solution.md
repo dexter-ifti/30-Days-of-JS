@@ -1,6 +1,5 @@
-I'll provide solutions for each task. I'll group them by activity and provide code examples for each.
 
-Activity 1: Basic Error Handling with Try-Catch
+#### Activity 1: Basic Error Handling with Try-Catch
 
 Task 1:
 ```javascript
@@ -32,7 +31,7 @@ console.log(divideNumbers(10, 2));  // Output: 5
 divideNumbers(10, 0);  // Output: Error: Cannot divide by zero
 ```
 
-Activity 2: Finally Block
+#### Activity 2: Finally Block
 
 Task 3:
 ```javascript
@@ -50,7 +49,7 @@ function demonstrateFinally() {
 demonstrateFinally();
 ```
 
-Activity 3: Custom Error Objects
+#### Activity 3: Custom Error Objects
 
 Task 4:
 ```javascript
@@ -102,7 +101,7 @@ processInput("");  // Output: Validation error: Input cannot be empty
 processInput("Hello");  // Output: Valid input: Hello
 ```
 
-Activity 4: Error Handling in Promises
+#### Activity 4: Error Handling in Promises
 
 Task 6:
 ```javascript
@@ -135,7 +134,7 @@ async function handleRandomPromise() {
 handleRandomPromise();
 ```
 
-Activity 5: Graceful Error Handling in Fetch
+#### Activity 5: Graceful Error Handling in Fetch
 
 Task 8:
 ```javascript
